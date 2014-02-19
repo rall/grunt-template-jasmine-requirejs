@@ -1,6 +1,6 @@
 {
   "name": "grunt-template-jasmine-requirejs",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Requirejs template for grunt-contrib-jasmine",
   "main": "src/template-jasmine-requirejs.js",
   "scripts": {
@@ -40,9 +40,6 @@
     "Brian Ng <bng@prospricing.com>"
   ],
   "license": "BSD",
-  "peerDependencies": {
-    "grunt-contrib-jasmine": "~0.5.2"
-  },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.4",
     "grunt-contrib-watch": "~0.1.4",
